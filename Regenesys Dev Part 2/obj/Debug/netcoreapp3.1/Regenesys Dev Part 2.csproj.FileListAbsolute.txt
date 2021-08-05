@@ -1,0 +1,13 @@
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.csproj.AssemblyReference.cache
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.AssemblyInfoInputs.cache
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.AssemblyInfo.cs
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.exe
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.deps.json
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.runtimeconfig.json
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.runtimeconfig.dev.json
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.dll
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\bin\Debug\netcoreapp3.1\Regenesys Dev Part 2.pdb
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.dll
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.pdb
+C:\Users\Mojalefa-a\source\repos\Regenesys Dev Part 2\Regenesys Dev Part 2\obj\Debug\netcoreapp3.1\Regenesys Dev Part 2.genruntimeconfig.cache
